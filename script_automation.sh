@@ -1,4 +1,4 @@
-#!/bin/bashd
+#!/bin/bash
 date
 hostname
 arch
